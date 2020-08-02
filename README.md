@@ -4,7 +4,7 @@
 
 Submitted by: **Anushka Kathait**
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -33,6 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I struggled to follow the use of intents when making the edit screen, but that issue was nothing a little online digging and a few tags couldn't handle!
 
 ## License
 
